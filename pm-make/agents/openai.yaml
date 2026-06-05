@@ -1,0 +1,7 @@
+interface:
+  display_name: "PM Make"
+  short_description: "把模糊产品想法收敛为定型稿"
+  default_prompt: "Use $pm-make to turn my rough product idea into a frozen Product Shipping Brief."
+
+policy:
+  allow_implicit_invocation: true

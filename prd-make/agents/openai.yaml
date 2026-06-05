@@ -1,0 +1,7 @@
+interface:
+  display_name: "PRD Make"
+  short_description: "基于定型稿分模块生成完整 PRD"
+  default_prompt: "使用 $prd-make 基于这份冻结版产品定型稿生成模块化 PRD。"
+
+policy:
+  allow_implicit_invocation: true
