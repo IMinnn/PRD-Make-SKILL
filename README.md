@@ -87,7 +87,7 @@ cp -R PRD-Make-SKILL/prd-make ~/.codex/skills/
 ```
 **注意：这是两个 SKILL，请不要将整个PRD-Make-SKILL文件夹放到 agent 的 skill 文件夹中，需要将两个 skill 分开放置在 agent 的 skill 文件夹中**
 
-安装后重启 Codex，或开启一个新会话，让 Codex 重新加载 Skill 列表。
+安装后重启 Codex，让 Codex 重新加载 Skill 列表。
 
 ### 手动安装
 
