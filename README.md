@@ -80,12 +80,12 @@ prd-make/
 如果你的 Codex Skill 目录是 `~/.codex/skills`，可以执行：
 
 ```bash
-git clone <your-repo-url> PRDskill
+git git@github.com:IMinnn/PRD-Make-SKILL.git PRD-Make-SKILL
 mkdir -p ~/.codex/skills
-cp -R PRDskill/pm-make ~/.codex/skills/
-cp -R PRDskill/prd-make ~/.codex/skills/
+cp -R PRD-Make-SKILL/pm-make ~/.codex/skills/
+cp -R PRD-Make-SKILL/prd-make ~/.codex/skills/
 ```
-
+**注意：这是两个 SKILL，请不要将整个PRD-Make-SKILL文件夹放到 agent 的 skill 文件夹中，需要将两个 skill 分开放置在 agent 的 skill 文件夹中**
 安装后重启 Codex，或开启一个新会话，让 Codex 重新加载 Skill 列表。
 
 ### 手动安装
