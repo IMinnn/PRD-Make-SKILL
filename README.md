@@ -1,4 +1,4 @@
-# PRD Skill
+#  PRD Make SKILL
 
 一套面向产品经理的 AI 协作 Skill：先用 `pm-make` 把模糊想法收敛成可执行的产品定型稿，再用 `prd-make` 把定型稿扩展为面向研发、UI、QA 评审的完整 PRD。
 
