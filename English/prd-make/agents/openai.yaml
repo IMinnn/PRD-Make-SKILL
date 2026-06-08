@@ -1,0 +1,7 @@
+interface:
+  display_name: "PRD Make"
+  short_description: "Generate a complete modular PRD from a Product Shipping Brief"
+  default_prompt: "Use $prd-make to generate a modular PRD from this frozen Product Shipping Brief."
+
+policy:
+  allow_implicit_invocation: true

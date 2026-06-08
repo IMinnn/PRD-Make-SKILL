@@ -1,0 +1,7 @@
+interface:
+  display_name: "PM Make"
+  short_description: "Converge a vague product idea into a Product Shipping Brief"
+  default_prompt: "Use $pm-make to turn my rough product idea into a frozen Product Shipping Brief."
+
+policy:
+  allow_implicit_invocation: true
